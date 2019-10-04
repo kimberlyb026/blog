@@ -1,13 +1,135 @@
-img{
-margin-left:45%;
-margin-right:65%;
-padding:200px;
+body{background:url(images/header.jpg);
+	font-family: 'Roboto', sans-serif;
 
 }
 
-span{
-	margin-left:40%;
-	margin-right:60%;
 
+h1 {
+	color:#ff0066;
+	font-family: 'Rock Salt', cursive;
+}
+
+h2{ 
+color: #C31E93
+;
+font-family: 'Aldrich', sans-serif;
+float-size:10%; }
+
+li{
+	color:#ff0066;
+	float-size:300px;
+font-family: 'Bungee Inline', cursive;
+}
+
+
+h3{color:#C31E93;
+
+	float-size: 50px;
+	font-family: 'Patrick Hand SC', cursive;
+
+}
+
+
+
+.logo{
+/*margin-left:25%;
+margin-right:75%;*/
+display:block;
+margin: auto;
+padding-left: auto;
+padding-right: auto;
+padding-bottom: 75px;
+padding-top: 200px;
+
+
+}
+
+.icons{
+	display: block;
+	margin: auto;
+	text-align: center;
+
+}
+#menu{
+	background: white;
+	float:right;
+	color:grey;
+	display: block;
+	width: 100%;
+
+
+
+	 
+
+
+}
+
+.fa-home{
+	margin-left: 60px;
+	color:grey;
+	
+}
+
+.fa-cogs{
+	margin-left:60px;
+		color:grey;
+		
+}
+
+.fa-copy{
+	margin-left:60px;
+		color:grey;
+		
+}
+
+.fa-th{
+	margin-left:60px;
+		color:grey;
+	
+}
+
+.fa-font{
+	margin-left:60px;
+		color:grey;
+	
+}
+
+
+.fa-comment{
+	margin-left:60px;
+		color:grey;
+
+}
+
+
+.fa-twitter-square{
+	color:grey;
+	float: right;
+	margin-left:10px;
+}
+
+.fa-rss-square{
+	color:grey;
+	float: right;
+	margin-left:10px;
+}
+
+
+.fa-facebook-square{
+	color:grey;
+	float: right;
+	margin-left:10px;
+}
+
+.fa-google-plus-square{
+	color:grey;
+	float: right;
+	margin-left:10px;
+}
+
+.fa-homebutton
+{
+	float:left;
+	border: solid;
 
 }
